@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.SDK">
+  <PropertyGroup>
+    <TargetFramework>net47</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <LangVersion>7.2</LangVersion>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+</Project>
