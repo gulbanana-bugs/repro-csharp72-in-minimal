@@ -4,6 +4,6 @@ using System.Linq;
 
 class Program
 {
-    static void Main() => new[]{ "" }.Select(InMethod).ToList();
-    static string InMethod(in string param) => param;
+    static void Main() => new[]{ 0 }.Select(InMethod).ToList();
+    static int InMethod(in int param) => param;
 }
